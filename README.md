@@ -5,6 +5,7 @@ Proyecto Spring Boot con las dependencias/starters:
 * Spring Data JPA
 * Spring Web
 * Spring Boot DevTools
+* Spring Security
 
 Aplicación API Rest con acceso a Base de Datos H2 para persistir la información
 
